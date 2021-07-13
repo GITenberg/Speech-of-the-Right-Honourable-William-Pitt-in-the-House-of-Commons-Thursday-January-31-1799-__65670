@@ -1,0 +1,32 @@
+_repo: Speech-of-the-Right-Honourable-William-Pitt-in-the-House-of-Commons-Thursday-January-31-1799-__65670
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pitt, William
+    aliases:
+    - Chatham, Earl of
+    - Pitt, William, the Younger
+    birthdate: 1759
+    deathdate: 1806
+    gutenberg_agent_id: '52593'
+    url: http://www.gutenberg.org/2009/agents/52593
+    wikipedia: https://en.wikipedia.org/wiki/William_Pitt_the_Younger
+description: ''
+gutenberg_issued: '2021-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65670'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Politics and government -- 1760-1820'
+- !lcc 'DA'
+- GITenberg
+title: 'Speech of the Right Honourable William Pitt, in the House of Commons, Thursday,
+  January 31, 1799
+
+  On offering to the House the resolutions which he proposed as the basis of an union
+  between Great Britain and Ireland: Fifth Edition.'
+url: http://www.gutenberg.org/ebooks/65670
